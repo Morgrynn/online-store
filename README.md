@@ -1,3 +1,9 @@
+This was from freecodecamp tutorial
+
+Learning when and how to use Context within a react app to pass data around.
+Also using the PayPal api 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
